@@ -42,6 +42,6 @@ banking portal at Banamex in Mexico
 | ----------- | ----------- | ----------- | ----------- |
 | MySQL, SQL Server, Oracle | PHP, Java, C# .Net, NodeJS, JWT, Python | HTML, CSS, SASS, JS, JQuery, TypeScript, Bootstrap, React | SOLID principles, Git, Github, GitLab, REST API, AJAX, XML, JSON, Agile/Scrum, JIRA, Figma, Wordpress, Liferay
 
-#### Certifications
+### Certifications
 - 2018: Professional Coach, IESEC Human
 - 2012: COBIT V4, ISACA
